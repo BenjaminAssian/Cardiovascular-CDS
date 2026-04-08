@@ -38,6 +38,8 @@ Implement model explainability using SHAP values
 
 ## How to Run
 
-pip install -r requirements.txt
-python model_training.py
+pip install -r requirements.txt  
+
+python model_training.py  
+
 streamlit run app.py
