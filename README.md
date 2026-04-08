@@ -28,9 +28,12 @@ Dataset → Data Processing → Random Forest Model → Streamlit Dashboard → 
 
 ## Future Improvements
 
-Improve model accuracy using additional datasets
-Deploy the application to a cloud platform
-Add user authentication for clinical environments
+Improve model accuracy using additional datasets  
+
+Deploy the application to a cloud platform  
+
+Add user authentication for clinical environments  
+
 Implement model explainability using SHAP values
 
 ## How to Run
